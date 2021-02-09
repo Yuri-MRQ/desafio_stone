@@ -8,7 +8,7 @@ def split_bill(items_list, persons_list):
     Arguments:
 
     items_list -- A list of lists itens with item, qty, price/qty 
-    eg.: [[item1, qty1, price1/qty1], [item_1, qty_1, price_1/qty_1], ...., [item_n, qty_n, price_n/qty_n]]
+    eg.: [[item1, qty1, price1/qty1], [item_2, qty_2, price_2/qty_2], ...., [item_n, qty_n, price_n/qty_n]]
     person_list -- List containing e-mail, the bill is gonna by divide equally by e-mail
     eg.: [email_1, email_2, ..., email_n]
 
